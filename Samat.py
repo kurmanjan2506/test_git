@@ -1,0 +1,1 @@
+print('Samat THE BEST, OF THE BEST!!!!')
