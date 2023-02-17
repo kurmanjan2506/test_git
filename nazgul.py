@@ -1,1 +1,1 @@
-print('nazgul')
+print('nazguul')
